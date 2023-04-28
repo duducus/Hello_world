@@ -56,6 +56,30 @@ First proyect of microverse course
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+git clone yourlink repo [https://github.com/duducus/Hello_world]
+
+cd your folder name
+```
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add a "hello microverse" images and logos**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
